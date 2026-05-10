@@ -621,7 +621,11 @@ Code is uniquely executable, producing objective oracle signals that anchor mult
 
 #### Static Analysis Warnings
 
-*(No papers with available URL.)*
+<!-- *(No papers with available URL.)* -->
+
+| Paper | Venue |
+| --- | --- |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
 
 #### Performance Profiling Results
 
