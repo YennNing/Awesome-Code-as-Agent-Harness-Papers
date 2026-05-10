@@ -102,7 +102,7 @@ Programs externalize internal logic into verifiable computation, allowing interp
 | --- | --- |
 | [Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks](https://arxiv.org/abs/2211.12588) | TMLR 2022 |
 | [Mathcoder: Seamless code integration in llms for enhanced mathematical reasoning](https://arxiv.org/abs/2310.03731) | ICLR 2024 |
-| [Chain of code: Reasoning with a language model-augmented code emulator](https://arxiv.org/abs/2312.04474) | ICML 2023 |
+| [Chain of code: Reasoning with a language model-augmented code emulator](https://arxiv.org/abs/2312.04474) | ICML 2024 |
 | [Method-based reasoning for large language models: Extraction, reuse, and continuous improvement](https://arxiv.org/abs/2508.04289) | 2025 |
 | [Code-enabled language models can outperform reasoning models on diverse tasks](https://arxiv.org/abs/2510.20909) | 2025 |
 | [When Do Program-of-Thought Works for Reasoning?](https://ojs.aaai.org/index.php/AAAI/article/view/29721) | AAAI 2024 |
@@ -213,7 +213,7 @@ Program states, repositories, traces, simulators, and tests represent state, dyn
 | --- | --- |
 | [Cruxeval: A benchmark for code reasoning, understanding and execution](https://arxiv.org/abs/2401.03065) | ICML 2024 |
 | [Livecodebench: Holistic and contamination free evaluation of large language models for code](https://openreview.net/forum?id=chfJJYC3iL) | ICLR 2025 |
-| [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/abs/2310.06770) | ICLR 2023 |
+| [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/abs/2310.06770) | ICLR 2024 |
 | [Agentbench: Evaluating llms as agents](https://arxiv.org/abs/2308.03688) | ICLR 2024 |
 | [Core: Benchmarking llms code reasoning capabilities through static analysis tasks](https://neurips.cc/virtual/2025/poster/121601) | NeurIPS 2025 |
 | [Geogrambench: Benchmarking the geometric program reasoning in modern llms](https://arxiv.org/abs/2505.17653) | 2025 |
@@ -235,7 +235,7 @@ Planning is harness control: it structures how the agent externalizes intent int
 
 | Paper | Venue |
 | --- | --- |
-| [A real-world webagent with planning, long context understanding, and program synthesis](https://arxiv.org/abs/2307.12856) | ICLR 2023 |
+| [A real-world webagent with planning, long context understanding, and program synthesis](https://arxiv.org/abs/2307.12856) | ICLR 2024 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
 | [Self-Planning Code Generation with Large Language Models](https://dl.acm.org/doi/10.1145/3672456) | TOSEM 2024 |
 | [Knowledge-Aware Code Generation with Large Language Models](https://arxiv.org/abs/2401.15940) | 2024 |
@@ -272,8 +272,8 @@ Planning is harness control: it structures how the agent externalizes intent int
 | Paper | Venue |
 | --- | --- |
 | [Agentcoder: Multi-agent-based code generation with iterative testing and optimisation](https://arxiv.org/abs/2312.13010) | 2023 |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
-| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.05678) | 2025 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
+| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](https://arxiv.org/abs/2510.03902) | 2025 |
 | [SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair](https://arxiv.org/abs/2602.23647) | 2026 |
 | [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/abs/2508.18675) | ASE 2025 |
@@ -396,10 +396,10 @@ Iterative debugging closes the harness loop: development environments expose fee
 | Paper | Venue |
 | --- | --- |
 | [On the Impacts of Contexts on Repository-Level Code Generation](https://aclanthology.org/2025.findings-naacl.82/) | NAACL 2025 Findings |
-| [A Survey on Model Context Protocol: Architecture, State-of-the-art, Challenges and Future Directions](https://api.semanticscholar.org/CorpusID:281419186) |  arXiv|
-| [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910) | NAACL 2024 |
-| [RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation](https://aclanthology.org/2024.emnlp-demo.46/) | EMNLP 2024 Demo |
-| [Knowledge Graph Based Repository-Level Code Generation](http://dx.doi.org/10.1109/LLM4Code66737.2025.00026) | Workshop 2025 |
+| [A Survey on Model Context Protocol: Architecture, State-of-the-art, Challenges and Future Directions](https://doi.org/10.36227/techrxiv.174495492.22752319/v1) | TechRxiv 2025 |
+| [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910) | NAACL 2025 |
+| [RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation](https://aclanthology.org/2024.emnlp-demo.46/) | 2024 |
+| [Knowledge Graph Based Repository-Level Code Generation](http://dx.doi.org/10.1109/LLM4Code66737.2025.00026) | 2025 |
 | [From glue-code to protocols: A critical analysis of a2a and mcp integration for scalable agent systems](https://arxiv.org/abs/2505.03864) | 2025 |
 | [Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches](https://arxiv.org/abs/2510.04905) | 2026 |
 | [A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware](https://ieeexplore.ieee.org/document/10734067/) | TSE 2024 |
@@ -409,9 +409,9 @@ Iterative debugging closes the harness loop: development environments expose fee
 | Paper | Venue |
 | --- | --- |
 | [Conversational AI as a Coding Assistant: Understanding Programmers' Interactions with and Expectations from Large Language Models for Coding](https://arxiv.org/abs/2503.16508) | 2025 |
-| [The Design Space of LLM-Based AI Coding Assistants: An Analysis of 90 Systems in Academia and Industry](https://api.semanticscholar.org/CorpusID:282143017) | VL/HCC 2025 |
+| [The Design Space of LLM-Based AI Coding Assistants: An Analysis of 90 Systems in Academia and Industry](https://ieeexplore.ieee.org/document/11303497/) | VL/HCC 2025 |
 | [language-server-protocol: Defines a common protocol for language servers](https://github.com/Microsoft/language-server-protocol) | — |
-| [Deductive verification via the debug adapter protocol](https://arxiv.org/abs/2108.02968) | F-IDE@NFM 2021 |
+| [Deductive verification via the debug adapter protocol](https://arxiv.org/abs/2108.02968) | arXiv 2021 |
 | [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://dl.acm.org/doi/10.1145/3796519) | TOSEM 2025 |
 | [The Programmer's Assistant: Conversational Interaction with a Large Language Model for Software Development](https://doi.org/10.1145/3581641.3584037) | IUI 2023 |
 | [Human-AI Experience in Integrated Development Environments: A Systematic Literature Review](https://link.springer.com/article/10.1007/s10664-025-10793-0) | 2026 |
@@ -435,7 +435,7 @@ Iterative debugging closes the harness loop: development environments expose fee
 | --- | --- |
 | [LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead](https://doi.org/10.1145/3712003) | TOSEM 2024 |
 | [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](https://arxiv.org/abs/2507.19902) | 2025 |
-| [ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework](https://arxiv.org/abs/2510.03463) | Workshop @ ASE 2025 |
+| [ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework](https://arxiv.org/abs/2510.03463) | arXiv 2025 |
 | [From challenges to metrics: An LLM-driven DevOps recommendation system grounded in evidence-based mappings](https://www.sciencedirect.com/science/article/pii/S2590005625001742) | Array 2025 |
 | [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 |
 | [A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices](https://doi.org/10.20944/preprints202512.1922.v1) | 2025 |
@@ -467,10 +467,10 @@ Iterative debugging closes the harness loop: development environments expose fee
 
 | Paper | Venue |
 | --- | --- |
-| [Teaching large language models to self-debug](https://arxiv.org/abs/2304.05128) | ICLR 2023 |
+| [Teaching large language models to self-debug](https://arxiv.org/abs/2304.05128) | arXiv 2023 |
 | [Learning to generate unit tests for automated debugging](https://openreview.net/pdf?id=yeVBHPLXxi) | COLM 2025 |
 | [Testart: Improving llm-based unit testing via co-evolution of automated generation and repair iteration](https://arxiv.org/abs/2408.03095) | 2024 |
-| [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](https://openreview.net/forum?id=dwQIVcW1du) | 2025 |
+| [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](https://arxiv.org/abs/2410.01215) | ICSE 2026 |
 | [Revisit Self-Debugging with Self-Generated Tests for Code Generation](https://aclanthology.org/2025.acl-long.881/) | ACL 2025 |
 | [LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation](https://dl.acm.org/doi/abs/10.1109/TSE.2024.3428972) | TSE 2024 |
 
@@ -485,7 +485,7 @@ Iterative debugging closes the harness loop: development environments expose fee
 
 | Paper | Venue |
 | --- | --- |
-| [IterPref: Focal Preference Learning for Code Generation via Iterative Debugging](https://api.semanticscholar.org/CorpusID:282402257) | 2025 |
+| [IterPref: Focal Preference Learning for Code Generation via Iterative Debugging](https://arxiv.org/abs/2503.02783) | arXiv 2025 |
 | [ReVeal: Self-Evolving Code Agents via Reliable Self-Verification](https://openreview.net/forum?id=q56ZI1Co43) | NeurIPS 2025 |
 ## 👥 Scaling the Harness: Multi-Agent Code-Centric Systems
 
@@ -509,7 +509,7 @@ Distinct agents own slices of the shared code harness — synthesis, understandi
 
 | Paper | Venue |
 | --- | --- |
-| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2406.11915) | 2024 |
+| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2409.16299) | 2024 |
 | [Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement](https://dl.acm.org/doi/10.1145/3728981) | ISSTA 2025 |
 | [CleanAgent: Automating data standardization with LLM-based agents](https://arxiv.org/abs/2403.08291) | 2024 |
 | [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://openreview.net/forum?id=qevq3FZ63J) | NeurIPS 2024 |
@@ -519,8 +519,8 @@ Distinct agents own slices of the shared code harness — synthesis, understandi
 | Paper | Venue |
 | --- | --- |
 | [QualityFlow: An agentic workflow for program synthesis controlled by LLM quality checks](https://arxiv.org/abs/2501.01234) | 2025 |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
-| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2501.11223) | 2025 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
+| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2506.02943) | 2025 |
 
 #### Execution Agents
 
@@ -556,7 +556,7 @@ Code-centric multi-agent interaction is artifact-mediated: agents observe and mo
 
 | Paper | Venue |
 | --- | --- |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
 | [MAGE: A multi-agent engine for automated RTL code generation](https://arxiv.org/abs/2406.03554) | DAC 2025 |
 
 #### Reasoning Debate
@@ -564,7 +564,7 @@ Code-centric multi-agent interaction is artifact-mediated: agents observe and mo
 | Paper | Venue |
 | --- | --- |
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
-| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2501.11223) | 2025 |
+| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2506.02943) | 2025 |
 
 ### 🕸️ Workflow Topology
 
@@ -579,9 +579,9 @@ Topology of agent interaction (chain, cyclic, hierarchical, star, adaptive) is o
 | [L2MAC: Large language model automatic computer for extensive code generation](https://arxiv.org/abs/2310.02003) | ICLR 2024 |
 | [Agentcoder: Multi-agent-based code generation with iterative testing and optimisation](https://arxiv.org/abs/2312.13010) | 2023 |
 | [MAGE: A multi-agent engine for automated RTL code generation](https://arxiv.org/abs/2406.03554) | DAC 2025 |
-| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2406.11915) | 2024 |
+| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2409.16299) | 2024 |
 | [Self-organized agents: A LLM multi-agent framework toward ultra large-scale code generation and optimization](https://arxiv.org/abs/2404.02183) | 2024 |
-| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2501.11223) | 2025 |
+| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2506.02943) | 2025 |
 
 #### Objective-Driven and Adaptive Topologies
 
@@ -613,7 +613,7 @@ Code is uniquely executable, producing objective oracle signals that anchor mult
 
 | Paper | Venue |
 | --- | --- |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
 
 #### Static Analysis Warnings
 
@@ -645,7 +645,7 @@ How multi-agent systems maintain a consistent shared view of program state.
 
 | Paper | Venue |
 | --- | --- |
-| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2406.11915) | 2024 |
+| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2409.16299) | 2024 |
 
 #### Structured Context Scheduling
 
@@ -658,7 +658,7 @@ How multi-agent systems maintain a consistent shared view of program state.
 | Paper | Venue |
 | --- | --- |
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
-| [Cogito, ergo sum: A neurobiologically-inspired cognition-memory-growth system for code generation](https://arxiv.org/abs/2501.03456) | 2025 |
+| [Cogito, ergo sum: A neurobiologically-inspired cognition-memory-growth system for code generation](https://arxiv.org/abs/2501.18653) | 2025 |
 
 #### Agent Pool Scaling
 
@@ -676,7 +676,7 @@ Four levels of formalization for the shared substrate: implicit/file-only, repos
 | --- | --- |
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
 | [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://openreview.net/forum?id=VtmBAGCN7o) | ICLR 2024 |
-| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.05678) | 2025 |
+| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [SEW: Self-evolving agentic workflows for automated code generation](https://arxiv.org/abs/2502.01234) | 2025 |
 | [Codepori: Large-scale system for autonomous software development using multi-agent technology](https://arxiv.org/abs/2405.10931) | 2024 |
 | [SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](https://openreview.net/forum?id=6TDSDdgP7Z) | ICML 2025 |
@@ -685,17 +685,17 @@ Four levels of formalization for the shared substrate: implicit/file-only, repos
 
 | Paper | Venue |
 | --- | --- |
-| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2406.11915) | 2024 |
+| [HyperAgent: Generalist software engineering agents to solve coding tasks at scale](https://arxiv.org/abs/2409.16299) | 2024 |
 | [Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement](https://dl.acm.org/doi/10.1145/3728981) | ISSTA 2025 |
 #### Execution-Based Representation
 
 | Paper | Venue |
 | --- | --- |
 | [Agentcoder: Multi-agent-based code generation with iterative testing and optimisation](https://arxiv.org/abs/2312.13010) | 2023 |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
 | [QualityFlow: An agentic workflow for program synthesis controlled by LLM quality checks](https://arxiv.org/abs/2501.01234) | 2025 |
 | [MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](https://arxiv.org/abs/2505.03906) | 2025 |
-| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2501.11223) | 2025 |
+| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2506.02943) | 2025 |
 | [MAGE: A multi-agent engine for automated RTL code generation](https://arxiv.org/abs/2406.03554) | DAC 2025 |
 
 #### Blackboard / Shared-State Representation
@@ -705,7 +705,7 @@ Four levels of formalization for the shared substrate: implicit/file-only, repos
 | [The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty](https://doi.org/10.1145/356810.356816) | CSUR 1980 |
 | [L2MAC: Large language model automatic computer for extensive code generation](https://arxiv.org/abs/2310.02003) | ICLR 2024 |
 | [Gamegpt: Multi-agent collaborative framework for game development](https://arxiv.org/abs/2310.08067) | 2023 |
-| [Cogito, ergo sum: A neurobiologically-inspired cognition-memory-growth system for code generation](https://arxiv.org/abs/2501.03456) | 2025 |
+| [Cogito, ergo sum: A neurobiologically-inspired cognition-memory-growth system for code generation](https://arxiv.org/abs/2501.18653) | 2025 |
 
 ### 🎯 Harness-State Convergence
 
@@ -717,13 +717,13 @@ How a multi-agent code system decides the shared harness has reached an acceptab
 | --- | --- |
 | [Agentcoder: Multi-agent-based code generation with iterative testing and optimisation](https://arxiv.org/abs/2312.13010) | 2023 |
 | [L2MAC: Large language model automatic computer for extensive code generation](https://arxiv.org/abs/2310.02003) | ICLR 2024 |
-| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2501.11223) | 2025 |
+| [Hallucination to consensus: Multi-agent LLMs for end-to-end test generation with accurate oracles](https://arxiv.org/abs/2506.02943) | 2025 |
 
 #### Security Convergence
 
 | Paper | Venue |
 | --- | --- |
-| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2402.04486) | 2024 |
+| [AutoSafeCoder: A multi-agent framework for securing LLM code generation through static analysis and fuzz testing](https://arxiv.org/abs/2409.10737) | 2024 |
 
 #### Performance Convergence
 
@@ -736,7 +736,7 @@ How a multi-agent code system decides the shared harness has reached an acceptab
 | Paper | Venue |
 | --- | --- |
 | [MAGE: A multi-agent engine for automated RTL code generation](https://arxiv.org/abs/2406.03554) | DAC 2025 |
-| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.05678) | 2025 |
+| [CodeCoR: An LLM-based self-reflective multi-agent framework for code generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](https://arxiv.org/abs/2507.23370) | 2025 |
 
 #### Consensus Convergence
@@ -764,7 +764,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 
 | Paper | Venue |
 | --- | --- |
-| [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910) | NAACL 2024 |
+| [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910) | NAACL 2025 |
 
 #### Agent Harnesses as Executable Development Interfaces
 
@@ -787,7 +787,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 
 | Paper | Venue |
 | --- | --- |
-| [RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation](https://aclanthology.org/2024.emnlp-demo.46/) | EMNLP 2024 Demo |
+| [RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation](https://aclanthology.org/2024.emnlp-demo.46/) | 2024 |
 
 #### Developer Intent and Project Conventions as Latent State
 
@@ -810,7 +810,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 
 | Paper | Venue |
 | --- | --- |
-| [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/abs/2310.06770) | ICLR 2023 |
+| [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/abs/2310.06770) | ICLR 2024 |
 | [SWE-lancer: Can frontier LLMs earn \$1 million from real-world freelance software engineering?](https://arxiv.org/abs/2502.12115) | ICML 2025 |
 | [Swe-bench pro: Can ai agents solve long-horizon software engineering tasks?](https://arxiv.org/abs/2509.16941) | 2025 |
 | [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 |
@@ -865,7 +865,7 @@ GUI/OS environments are program worlds in the most literal sense: every observat
 | Paper | Venue |
 | --- | --- |
 | [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://openreview.net/forum?id=Pc8AU1aF5e) | ICLR 2024 |
-| [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771) | CHI 2023 |
+| [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771) | CHI 2024 |
 | [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) | NeurIPS 2024 |
 | [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) | 2026 |
 | [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) | 2024 |
