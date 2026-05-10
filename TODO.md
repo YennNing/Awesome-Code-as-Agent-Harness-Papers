@@ -45,11 +45,11 @@ A separate review pass is needed to fix mistakes introduced during the manual ve
 - `SWE-bench` (the `arxiv.org/abs/2310.06770` row in **Code-Grounded Evaluation Environments** and **From Patch Generation to Software Lifecycle Participation**) — labeled `ICLR 2023`; should be `ICLR 2024` (and ideally switched to the OpenReview link).
 
 **Wrong arXiv IDs (need verification — these PDFs do not match the cited papers):**
-- `AutoSafeCoder` — uses `2402.04486`; correct ID is `2409.10737`
-- `CodeCoR` — uses `2501.05678`; correct ID is `2501.07811`
-- `Cogito` — uses `2501.03456`; correct ID is `2501.18653`
-- `HyperAgent` — uses `2406.11915`; correct ID is `2409.16299`
-- `Hallucination to Consensus (CANDOR)` — uses `2501.11223`; correct ID is `2506.02943`
+- `AutoSafeCoder` — uses `2402.04486`; correct ID is `2409.10737` ✅ Verified and fix reference.bib.
+- `CodeCoR` — uses `2501.05678`; correct ID is `2501.07811` ✅ Verified and fix reference.bib.
+- `Cogito` — uses `2501.03456`; correct ID is `2501.18653` ✅ Verified and fix reference.bib.
+- `HyperAgent` — uses `2406.11915`; correct ID is `2409.16299` ✅ Verified and fix reference.bib.
+- `Hallucination to Consensus (CANDOR)` — uses `2501.11223`; correct ID is `2506.02943` ✅ Verified and fix reference.bib.
 
 ### Remaining Bare-Year Rows
 
