@@ -901,7 +901,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 | Paper | Venue |
 | --- | --- |
 | [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
-| [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) | Nature 2023 |
+| [ChemCrow: Augmenting large-language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) | Nature MI 2024 |
 | [Autonomous Chemical Research with Large Language Models](https://www.nature.com/articles/s41586-023-06792-0) | Nature 2023 |
 | [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) | 2025 |
 | [Olympiad-Level Formal Mathematical Reasoning with Reinforcement Learning](https://www.nature.com/articles/s41586-025-09833-y) | Nature 2025 |
@@ -911,20 +911,20 @@ Hypotheses are encoded as differential equations or generative models; protocols
 
 | Paper | Venue |
 | --- | --- |
-| [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738) | NAACL 2024 |
-| [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://arxiv.org/abs/2310.10632) | EMNLP 2023 |
-| [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | EMNLP 2025 Findings |
+| [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://aclanthology.org/2025.naacl-long.342/) | NAACL 2025 |
+| [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) | EMNLP 2023 |
+| [Agent Laboratory: Using LLM Agents as Research Assistants](https://aclanthology.org/2025.findings-emnlp.320/) | EMNLP 2025 Findings |
 | [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102) | 2025 |
 | [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) | 2024 |
 | [Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047) | 2026 |
-| [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
+| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=8oJyuXfrPv) | ICML 2024 |
 | [A Universal System for Digitization and Automatic Execution of the Chemical Synthesis Literature](https://www.science.org/doi/10.1126/science.abc2986) | Science 2020 |
 
 #### Memory as Persistent Program State
 
 | Paper | Venue |
 | --- | --- |
-| [AIDE: AI-Driven Exploration in the Space of Code](https://arxiv.org/abs/2502.13138) | 2025 ⚠️ link mismatch |
+| [AIDE: AI-Driven Exploration in the Space of Code](https://arxiv.org/abs/2502.13138) | 2025 |
 | [El Agente: An autonomous agent for quantum chemistry](http://dx.doi.org/10.1016/j.matt.2025.102263) | Matter 2025 |
 | [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
 | [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864) | 2025 |
@@ -939,7 +939,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 
 | Paper | Venue |
 | --- | --- |
-| [Self-driving laboratory for accelerated discovery of thin-film materials](https://arxiv.org/abs/1906.05398) | Science 2019 |
+| [Self-driving laboratory for accelerated discovery of thin-film materials](https://arxiv.org/abs/1906.05398) | 2020 |
 | [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063) | 2024 |
 | [An Autonomous Laboratory for the Accelerated Synthesis of Inorganic Materials](https://www.nature.com/articles/s41586-023-06734-w) | Nature 2023 |
 
@@ -947,11 +947,11 @@ Hypotheses are encoded as differential equations or generative models; protocols
 
 | Paper | Venue |
 | --- | --- |
-| [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/abs/2310.03302) | ICML 2023 |
-| [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | ICLR 2025 |
+| [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/abs/2310.03302) | 2024 |
+| [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | 2025 |
 | [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148) | 2025 |
 | [ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery](https://arxiv.org/abs/2410.05080) | ICLR 2025 |
-| [DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](https://arxiv.org/abs/2407.01725) | ICLR 2024 |
+| [DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](https://arxiv.org/abs/2407.01725) | 2024 |
 
 ### 🤖 Autonomous Embodied Agents
 
@@ -966,7 +966,7 @@ Code grounds embodied actions in physical feasibility, accumulates reusable skil
 | [SkillVLA: Tackling Combinatorial Diversity in Dual-Arm Manipulation via Skill Reuse](https://arxiv.org/abs/2603.03836) | 2026 |
 | [Bootstrap your own skills: Learning to solve new tasks with large language model guidance](https://arxiv.org/abs/2310.10021) | CoRL 2023 |
 | [Robocodex: Multimodal code generation for robotic behavior synthesis](https://arxiv.org/abs/2402.16117) | ICML 2024 |
-| [LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation](https://arxiv.org/abs/2512.02002) | 2025 |
+| [LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation](https://arxiv.org/abs/2512.02002) | ICRA 2026 |
 | [NormCode: A Semi-Formal Language for Auditable AI Planning](https://arxiv.org/abs/2512.10563) | 2025 |
 | [Cp-agent: Agentic constraint programming](https://arxiv.org/abs/2508.07468) | 2025 |
 | [Veriguard: Enhancing llm agent safety via verified code generation](https://arxiv.org/abs/2510.05156) | 2025 |
