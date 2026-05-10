@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YennNing.Awesome-Code-as-Agent-Harness-Papers)
 
-This repository organizes research that treats **code and its execution artifacts as the executable, inspectable, and stateful infrastructure** through which LLM agents reason, act, model environments, manage state, and verify progress. Papers are grouped along three connected layers — *Harness Interface*, *Harness Mechanisms*, and *Scaling the Harness* — and across applications such as coding assistants, GUI/OS automation, scientific discovery, embodied agents, and recommender systems.
+This repository organizes research that treats **code and its execution artifacts as the executable, inspectable, and stateful infrastructure** through which LLM agents reason, act, model environments, manage state, and verify progress. Papers are grouped along three connected layers — *Harness Interface*, *Harness Mechanisms*, and *Scaling the Harness* — and across applications such as coding assistants, GUI/OS automation, scientific discovery, and embodied agents.
 
 > 📄 **Based on the survey**: *Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems* (arXiv link coming soon — placeholder)
 
@@ -46,7 +46,6 @@ This repository organizes research that treats **code and its execution artifact
   - [🖥️ GUI / OS Agents](#%EF%B8%8F-gui--os-agents)
   - [🔬 Scientific Discovery Agents](#-scientific-discovery-agents)
   - [🤖 Autonomous Embodied Agents](#-autonomous-embodied-agents)
-  - [🎬 Agent Personalization (Recommender Systems)](#-agent-personalization-recommender-systems)
 
 ---
 
@@ -62,7 +61,7 @@ We organize the literature into three connected layers:
 
 🔹 **Scaling the Harness.** How code becomes a shared workspace for multi-agent systems — coordinating roles, exchanging artifacts, reviewing each other’s outputs, and verifying collective progress through repositories, execution states, and structured workflows.
 
-Across these layers, we synthesize methodological progress and practical applications in coding assistants, GUI/OS automation, embodied agents, scientific discovery, recommender systems, DevOps, and enterprise workflows.
+Across these layers, we synthesize methodological progress and practical applications in coding assistants, GUI/OS automation, embodied agents, scientific discovery, DevOps, and enterprise workflows.
 
 ## 🤝 Contributing
 
@@ -410,8 +409,8 @@ Iterative debugging closes the harness loop: development environments expose fee
 | Paper | Venue |
 | --- | --- |
 | [Conversational AI as a Coding Assistant: Understanding Programmers' Interactions with and Expectations from Large Language Models for Coding](https://arxiv.org/abs/2503.16508) | 2025 |
-| [The Design Space of LLM-Based AI Coding Assistants: An Analysis of 90 Systems in Academia and Industry](https://api.semanticscholar.org/CorpusID:282143017) | IEEE Symposium on Visual Languages / Human-Centric Computing Languages and Environments 2025 |
-| [language-server-protocol: Defines a common protocol for language servers](https://github.com/Microsoft/language-server-protocol) | Web/Blog |
+| [The Design Space of LLM-Based AI Coding Assistants: An Analysis of 90 Systems in Academia and Industry](https://api.semanticscholar.org/CorpusID:282143017) | VL/HCC 2025 |
+| [language-server-protocol: Defines a common protocol for language servers](https://github.com/Microsoft/language-server-protocol) | — |
 | [Deductive verification via the debug adapter protocol](https://arxiv.org/abs/2108.02968) | F-IDE@NFM 2021 |
 | [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://dl.acm.org/doi/10.1145/3796519) | TOSEM 2025 |
 | [The Programmer's Assistant: Conversational Interaction with a Large Language Model for Software Development](https://doi.org/10.1145/3581641.3584037) | IUI 2023 |
@@ -424,7 +423,7 @@ Iterative debugging closes the harness loop: development environments expose fee
 | [RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing](https://arxiv.org/abs/2503.07358) | 2025 |
 | [Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](https://arxiv.org/abs/2508.05710) | 2025 |
 | [FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks](https://arxiv.org/abs/2504.06939) | 2026 |
-| [LLMLOOP: Improving LLM-Generated Code and Tests Through Automated Iterative Feedback Loops](https://doi.org/10.1109/ICSME64153.2025.00109) | IEEE International Conference on Software Maintenance and Evolution 2025 |
+| [LLMLOOP: Improving LLM-Generated Code and Tests Through Automated Iterative Feedback Loops](https://doi.org/10.1109/ICSME64153.2025.00109) | ICSME 2025 |
 | [Openagentsafety: A comprehensive framework for evaluating real-world ai agent safety](https://openreview.net/forum?id=xggSxCFQbA) | ICLR 2026 |
 | [Kubeintellect: A modular llm-orchestrated agent framework for end-to-end kubernetes management](https://arxiv.org/abs/2509.02449) | 2025 |
 | [MLDebugging: Towards Benchmarking Code Debugging Across Multi-Library Scenarios](https://aclanthology.org/2025.findings-acl.305/) | ACL 2025 Findings |
@@ -438,8 +437,8 @@ Iterative debugging closes the harness loop: development environments expose fee
 | [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](https://arxiv.org/abs/2507.19902) | 2025 |
 | [ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework](https://arxiv.org/abs/2510.03463) | Workshop @ ASE 2025 |
 | [From challenges to metrics: An LLM-driven DevOps recommendation system grounded in evidence-based mappings](https://www.sciencedirect.com/science/article/pii/S2590005625001742) | Array 2025 |
-| [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 3rd International Conference on Foundation and Large Language Models (FLLM) 2025 |
-| [A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices](https://doi.org/10.20944/preprints202512.1922.v1) | Science 2025 |
+| [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 |
+| [A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices](https://doi.org/10.20944/preprints202512.1922.v1) | 2025 |
 | [Continuous QoS-Compliant Orchestration in the Cloud-Edge Continuum](https://arxiv.org/abs/2310.02985) | 2024 |
 | [From Code Generation to AI Collaboration: The Role of Multi-Agent Systems in Software Engineering](https://www.researchgate.net/publication/388835330_From_Code_Generation_to_AI_Collaboration_The_Role_of_Multi-Agent_Systems_in_Software_Engineering) | 2025 |
 | [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations](https://openreview.net/forum?id=BAakY1hNKS) | COLM 2024 |
@@ -814,7 +813,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/abs/2310.06770) | ICLR 2023 |
 | [SWE-lancer: Can frontier LLMs earn \$1 million from real-world freelance software engineering?](https://arxiv.org/abs/2502.12115) | ICML 2025 |
 | [Swe-bench pro: Can ai agents solve long-horizon software engineering tasks?](https://arxiv.org/abs/2509.16941) | 2025 |
-| [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 3rd International Conference on Foundation and Large Language Models (FLLM) 2025 |
+| [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | 2025 |
 | [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://arxiv.org/abs/2601.11655) | 2026 |
 | [Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration](https://dl.acm.org/doi/10.1145/3696630.3728549) | FSE 2025 |
 | [CodeAgent: Autonomous Communicative Agents for Code Review](https://aclanthology.org/2024.emnlp-main.632/) | EMNLP 2024 |
@@ -985,12 +984,6 @@ Code grounds embodied actions in physical feasibility, accumulates reusable skil
 | --- | --- |
 | [RACAS: Controlling Diverse Robots With a Single Agentic System](https://arxiv.org/abs/2603.05621) | 2026 |
 | [ALRM: Agentic LLM for Robotic Manipulation](https://arxiv.org/abs/2601.19510) | 2026 |
-
-### 🎬 Agent Personalization (Recommender Systems)
-
-Recommender systems instantiate the program-world abstraction at scale: user state evolves, policies are executable procedures, and feedback closes the loop through executable data, policy, and evaluation pipelines.
-
-*(This subsection of the survey provides a conceptual reframing without explicit citations beyond cross-references; see other sections for related papers.)*
 
 ---
 
