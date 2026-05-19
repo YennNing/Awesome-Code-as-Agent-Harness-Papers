@@ -828,6 +828,34 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | --- | --- |
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
 | [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://openreview.net/forum?id=VtmBAGCN7o) | ICLR 2024 |
+| [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-Level Coding Challenges](https://aclanthology.org/2024.acl-long.757/) | ACL 2024 |
+| [METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling](https://arxiv.org/abs/2502.04567) | ACL 2025 |
+
+#### The Harness as a Distillation Surface
+
+| Paper | Venue |
+| --- | --- |
+| [Composer: Building a fast frontier model with reinforcement learning](https://cursor.com/blog/composer) \[Blog\] | 2025 |
+| [Improving Composer through real-time reinforcement learning](https://cursor.com/blog/real-time-rl-for-composer) \[Blog\] | 2025 |
+| [Addendum to GPT-5 system card: GPT-5-Codex](https://cdn.openai.com/pdf/97cc5669-7a25-4e63-b15f-5fd5bdc4d149/gpt-5-codex-system-card.pdf) \[Report\] | 2025 |
+| [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) \[Blog\] | 2025 |
+| [How Anthropic teams use Claude Code](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf) \[Report\] | 2025 |
+
+#### Open Challenges for Code-Assistant Harnesses
+
+| Paper | Venue |
+| --- | --- |
+| [Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study](https://arxiv.org/abs/2503.15223) | arXiv 2025 |
+| [SWE-Bench++: A Framework for the Scalable Generation of Software Engineering Benchmarks](https://arxiv.org/abs/2512.17419) | arXiv 2025 |
+| [Introducing Aardvark: OpenAI's Agentic Security Researcher](https://openai.com/index/introducing-aardvark/) \[Blog\] | 2025 |
+| [Codex Security: Now in Research Preview](https://openai.com/index/codex-security-now-in-research-preview/) \[Blog\] | 2026 |
+| [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) | arXiv 2025 |
+| [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212) | arXiv 2025 |
+| [AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?](https://arxiv.org/abs/2509.03312) | arXiv 2025 |
+| [Where LLM Agents Fail and How They Can Learn from Failures](https://arxiv.org/abs/2509.25370) | arXiv 2025 |
+| [Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.11839) | arXiv 2026 |
+| [Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution](https://arxiv.org/abs/2512.12806) | arXiv 2025 |
+| [Introducing the Agent Governance Toolkit: Open-Source Runtime Security for AI Agents](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/) \[Blog\] | 2026 |
 
 ### 🖥️ GUI / OS Agents
 
