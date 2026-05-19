@@ -1,22 +1,36 @@
 # Awesome Code as Agent Harness Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/arXiv-2605.18747-b31b1b.svg)](#)  <!-- TODO: replace with real arXiv link once posted -->
+[![arXiv](https://img.shields.io/badge/arXiv-2605.18747-b31b1b.svg)](https://arxiv.org/abs/2605.18747)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
 ![Last Commit](https://img.shields.io/github/last-commit/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YennNing.Awesome-Code-as-Agent-Harness-Papers)
 
-This repository organizes research that treats **code and its execution artifacts as the executable, inspectable, and stateful infrastructure** through which LLM agents reason, act, model environments, manage state, and verify progress. Papers are grouped along three connected layers — *Harness Interface*, *Harness Mechanisms*, and *Scaling the Harness* — and across applications such as coding assistants, GUI/OS automation, scientific discovery, and embodied agents.
+This repository accompanies the survey [**Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems**](https://arxiv.org/abs/2605.18747).
+We study the emerging role of code in agentic AI: code is no longer only a generated artifact, but increasingly serves as an executable, inspectable, and stateful harness through which agents reason, act, model environments, receive feedback, and coordinate. The repository organizes representative papers around three connected layers: **Harness Interface**, **Harness Mechanisms**, and **Scaling the Harness**, covering directions such as coding assistants, GUI/OS automation, scientific discovery, and embodied intelligence.
 
-> 📄 **Based on the survey**: [*Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems*](https://arxiv.org/abs/2605.18747) 
+> [!TIP]
+> 👋 We welcome paper suggestions, pull requests, and collaborations on code-centric agent systems. Please contact us at `xuyingn2@illinois.edu`, `kt42@illinois.edu`, `twei10@illinois.edu`, `zihaoli5@illinois.edu`, and `bei4@illinois.edu`.
 
-<!-- (arXiv link coming soon — placeholder) -->
+> [!NOTE]
+> 📚 If you find this resource useful, please cite and [![Stars](https://img.shields.io/github/stars/YennNing/Awesome-Code-as-Agent-Harness-Papers?style=social)](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) the repo:
+>
+>
+> ```bibtex
+> @article{ning2026codeasharness,
+>   title   = {Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems},
+>   author  = {Ning, Xuying and Tieu, Katherine and Fu, Dongqi and Wei, Tianxin and Li, Zihao and Bei, Yuanchen and others},
+>   journal = {arXiv preprint arXiv:2605.18747},
+>   year    = {2026}
+> }
+> ```
+
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
 
-**[TBD]** 🚀 We will release a comprehensive survey on ***Code as Agent Harness***. The arXiv preprint, slides, and project page links will be added here once available.
+**[2026-05]** 🚀 Our survey ***Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems*** is available on [arXiv](https://arxiv.org/abs/2605.18747). Slides and project page links will be added here once available.
 
 ## 📋 Table of Contents
 
@@ -24,7 +38,6 @@ This repository organizes research that treats **code and its execution artifact
 - [📋 Table of Contents](#-table-of-contents)
 - [🌟 Introduction](#-introduction)
 - [🤝 Contributing](#-contributing)
-- [📝 Citation](#-citation)
 - [🧩 Harness Interface](#-harness-interface)
   - [💭 Code for Reasoning](#-code-for-reasoning)
   - [🤖 Code for Acting](#-code-for-acting)
@@ -70,24 +83,8 @@ This collection is an ongoing effort. We welcome contributions from the communit
 
 - Submit a pull request to add papers or resources
 - Open an issue to suggest additional papers
-- Email us at: ```xuyingn2@illinois.edu```, ```kt42@illinois.edu```, ```twei10@illinois.edu```, ```zihaoli5@illinois.edu```, and ```bei4@illinois.edu```.
 
 We regularly update the repository to include new research on code-centric agentic systems.
-
-## 📝 Citation
-
-If you find this repository or paper useful, please consider citing the survey:
-
-<!-- TODO: replace once posted -->
-
-```bibtex
-@article{ning2026codeasharness,
-  title   = {Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems},
-  author  = {Ning, Xuying and Tieu, Katherine and Fu, Dongqi and Wei, Tianxin and Li, Zihao and Bei, Yuanchen and others},
-  journal = {arXiv preprint arXiv:2605.18747},
-  year    = {2026}
-}
-```
 
 ---
 
