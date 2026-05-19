@@ -752,22 +752,32 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 
 | Paper | Venue |
 | --- | --- |
+| [RepoCoder: Repository-Level Code Completion through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151/) | EMNLP 2023 |
 | [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910) | NAACL 2025 |
+| [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/abs/2404.05427) | ISSTA 2024 |
 
 #### Agent Harnesses as Executable Development Interfaces
 
 | Paper | Venue |
 | --- | --- |
+| [Claude Code](https://www.anthropic.com/product/claude-code) \[Blog\] | 2025 |
+| [Introducing Codex](https://openai.com/index/introducing-codex/) \[Blog\] | 2025 |
+| [About GitHub Copilot Cloud Agent](https://docs.github.com/copilot/concepts/agents/coding-agent/about-coding-agent) \[Blog\] | 2025 |
+| [DeepAgents](https://github.com/langchain-ai/deepagents) \[GitHub\] | 2025 |
+| [Model Context Protocol](https://docs.anthropic.com/en/docs/agents-and-tools/mcp) \[Docs\] | 2024 |
+| [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://arxiv.org/abs/2503.23278) | ACM TOSEM 2025 |
 | [The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents](https://arxiv.org/abs/2511.03690) | arXiv 2025 |
 | [AutoHarness: Improving LLM Agents by Automatically Synthesizing a Code Harness](https://arxiv.org/abs/2603.03329) | arXiv 2026 |
 | [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850) | arXiv 2026 |
-| [Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344) | arXiv 2026 |
+| [Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052) | arXiv 2026 |
+| [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | arXiv 2026 |
 
 #### Execution Feedback as Grounded Verification
 
 | Paper | Venue |
 | --- | --- |
 | [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489) | arXiv 2024 |
+| [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair](https://arxiv.org/abs/2403.17134) | ICSE 2025 |
 | [Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646) | arXiv 2025 |
 | [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/abs/2401.08500) | arXiv 2024 |
 
@@ -776,6 +786,9 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | Paper | Venue |
 | --- | --- |
 | [RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation](https://aclanthology.org/2024.emnlp-demo.46/) | EMNLP 2024 (Demo) |
+| [ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892) | arXiv 2026 |
+| [CodeMem: Architecting Reproducible Agents via Dynamic MCP and Procedural Memory](https://arxiv.org/abs/2512.15813) | arXiv 2025 |
+| [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://arxiv.org/abs/2601.06789) | arXiv 2026 |
 
 #### Developer Intent and Project Conventions as Latent State
 
@@ -801,6 +814,9 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | [SWE-bench: Can Language Models Resolve Real-world Github Issues?](https://arxiv.org/abs/2310.06770) | ICLR 2024 |
 | [SWE-lancer: Can frontier LLMs earn \$1 million from real-world freelance software engineering?](https://arxiv.org/abs/2502.12115) | ICML 2025 |
 | [SWE-bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](https://arxiv.org/abs/2509.16941) | arXiv 2025 |
+| [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868) | arXiv 2026 |
+| [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://aclanthology.org/2024.acl-long.874/) | ACL 2024 |
+| [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://openreview.net/forum?id=roNSXZpUDN) | ICLR 2025 |
 | [AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions](http://dx.doi.org/10.1109/FLLM67465.2025.11391007) | IEEE FLLM 2025 |
 | [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://arxiv.org/abs/2601.11655) | arXiv 2026 |
 | [Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration](https://dl.acm.org/doi/10.1145/3696630.3728549) | FSE 2025 |
