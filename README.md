@@ -358,6 +358,7 @@ Tool usage is the action and observation layer of the code-agent harness: agents
 | [ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph](https://arxiv.org/abs/2403.00839) | arXiv 2024 |
 | [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://link.springer.com/chapter/10.1007/978-3-031-73254-6_6) | ECCV 2024 |
 | [Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v1) | Preprints 2026 |
+| [Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2) | Preprints 2026 |
 | [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=8oJyuXfrPv) | ICML 2024 |
 | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://openreview.net/forum?id=OJd3ayDDoF) | ICLR 2025 |
 | [On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](https://dl.acm.org/doi/10.1145/3798166) | TOSEM 2025 |
