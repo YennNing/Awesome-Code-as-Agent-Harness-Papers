@@ -484,6 +484,7 @@ Distinct agents own slices of the shared code harness — synthesis, understandi
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
 | [MAGE: A multi-agent engine for automated RTL code generation](https://arxiv.org/abs/2412.07822) | DAC 2025 |
 | [Self-collaboration Code Generation via ChatGPT](https://dl.acm.org/doi/10.1145/3672459) | TOSEM 2024 |
+| [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918) | arXiv 2025 |
 
 #### Program Understanding Agents
 
@@ -998,6 +999,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 | [Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047) | arXiv 2026 |
 | [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=8oJyuXfrPv) | ICML 2024 |
 | [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/10.1126/science.abc2986) | Science 2020 |
+| [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) | arXiv 2026 |
 
 #### Memory as Persistent Program State
 
@@ -1029,6 +1031,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 | [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/abs/2310.03302) | arXiv 2024 |
 | [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | arXiv 2025 |
 | [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148) | arXiv 2025 |
+| [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) | arXiv 2026 |
 | [ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery](https://arxiv.org/abs/2410.05080) | ICLR 2025 |
 | [DiscoveryBench: Towards Data-Driven Discovery with Large Language Models](https://arxiv.org/abs/2407.01725) | arXiv 2024 |
 
