@@ -479,6 +479,7 @@ Distinct agents own slices of the shared code harness — synthesis, understandi
 
 | Paper | Venue |
 | --- | --- |
+| [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918) | arXiv 2025 |
 | [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) | arXiv 2023 |
 | [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://openreview.net/forum?id=VtmBAGCN7o) | ICLR 2024 |
 | [ChatDev: Communicative Agents for Software Development](https://doi.org/10.18653/v1/2024.acl-long.810) | ACL 2024 |
@@ -990,6 +991,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 
 | Paper | Venue |
 | --- | --- |
+| [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) | arXiv 2026 |
 | [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://aclanthology.org/2025.naacl-long.342/) | NAACL 2025 |
 | [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) | EMNLP 2023 |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://aclanthology.org/2025.findings-emnlp.320/) | EMNLP 2025 Findings |
@@ -1026,6 +1028,7 @@ Hypotheses are encoded as differential equations or generative models; protocols
 
 | Paper | Venue |
 | --- | --- |
+| [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) | arXiv 2026 |
 | [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/abs/2310.03302) | arXiv 2024 |
 | [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | arXiv 2025 |
 | [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148) | arXiv 2025 |
