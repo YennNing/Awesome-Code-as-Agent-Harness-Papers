@@ -84,6 +84,7 @@ Programs externalize internal logic into verifiable computation, allowing interp
 | [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f.html) | ICML 2023 |
 | [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114) | arXiv 2021 |
 | [Reasoning Like Program Executors](https://aclanthology.org/2022.emnlp-main.48/) | EMNLP 2022 |
+| [Does a Code Harness Actually Make an Agent More Reliable? Two Small Controlled Experiments and the Boundary of the Claim](https://github.com/asish-singh/code-as-harness-whitepaper) | GitHub 2026 |
 | [Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](https://aclanthology.org/2025.findings-acl.817/) | ACL 2025 Findings |
 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://openreview.net/forum?id=_VjQlMeSB_J) | NeurIPS 2022 |
 
