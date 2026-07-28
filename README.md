@@ -876,6 +876,7 @@ GUI/OS environments are program worlds in the most literal sense: every observat
 | [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441) | arXiv 2023 |
 | [WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?](https://proceedings.mlr.press/v235/drouin24a.html) | ICML 2024 |
 | [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) | CVPR 2024 |
+| [ClawBench: A Benchmark for Computer-Using Agents](https://arxiv.org/abs/2604.08523) | arXiv 2026 |
 #### Unifying Perception, Action, and Evaluation Through Code
 
 | Paper | Venue |
