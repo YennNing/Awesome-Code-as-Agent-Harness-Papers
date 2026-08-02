@@ -998,6 +998,8 @@ Hypotheses are encoded as differential equations or generative models; protocols
 | [Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047) | arXiv 2026 |
 | [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=8oJyuXfrPv) | ICML 2024 |
 | [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/10.1126/science.abc2986) | Science 2020 |
+| [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) | arXiv 2026 |
+| [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) | arXiv 2026 |
 
 #### Memory as Persistent Program State
 
