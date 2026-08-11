@@ -771,6 +771,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850) | arXiv 2026 |
 | [Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052) | arXiv 2026 |
 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | arXiv 2026 |
+| [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) | arXiv 2026 |
 
 #### Execution Feedback as Grounded Verification
 
