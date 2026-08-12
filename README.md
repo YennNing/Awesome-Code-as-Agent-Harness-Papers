@@ -691,6 +691,7 @@ Four levels of formalization for the shared substrate: implicit/file-only, repos
 | [L2MAC: Large language model automatic computer for extensive code generation](https://arxiv.org/abs/2310.02003) | ICLR 2024 |
 | [GameGPT: Multi-agent Collaborative Framework for Game Development](https://arxiv.org/abs/2310.08067) | arXiv 2023 |
 | [Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation](https://arxiv.org/abs/2501.18653) | arXiv 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | COLM 2026 |
 <!-- | [The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty](https://doi.org/10.1145/356810.356816) | CSUR 1980 | -->
 
 ### 🎯 Harness-State Convergence
