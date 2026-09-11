@@ -457,6 +457,7 @@ Iterative debugging closes the harness loop: development environments expose fee
 | --- | --- |
 | [Interactive Debugging and Steering of Multi-Agent AI Systems](https://doi.org/10.1145/3706598.3713581) | CHI 2025 |
 | [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](https://doi.org/10.1109/ICA63002.2024.00037) | International Conference on Agents 2024 |
+| [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) | arXiv 2026 |
 
 ##### Feedback-Driven Debugging and Self-Improvement
 
