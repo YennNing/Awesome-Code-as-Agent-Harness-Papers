@@ -295,6 +295,7 @@ Memory in code-as-agent-harness systems is a state-management layer: which infor
 | [Towards Large Language Models with Human-Like Episodic Memory](https://www.sciencedirect.com/science/article/abs/pii/S1364661325001792) | Trends in Cognitive Sciences 2025 |
 | [Episodic Memories Generation and Evaluation Benchmark for Large Language Models](https://openreview.net/forum?id=6ycX677p2l) | ICLR 2025 |
 | [ExpeL: LLM Agents Are Experiential Learners](https://ojs.aaai.org/index.php/AAAI/article/view/29936) | AAAI 2024 |
+| [Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair](https://arxiv.org/abs/2605.30105) | ICSE 2027 |
 
 #### Long-Term Memory
 
