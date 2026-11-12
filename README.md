@@ -770,6 +770,7 @@ Repositories, tests, issue threads, and development tools form a persistent prog
 | [AutoHarness: Improving LLM Agents by Automatically Synthesizing a Code Harness](https://arxiv.org/abs/2603.03329) | arXiv 2026 |
 | [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850) | arXiv 2026 |
 | [Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052) | arXiv 2026 |
+| [PluginRSI: Recursive Improvement of Agent Harnesses with Reusable Plugins](https://arxiv.org/abs/2609.32423) | arXiv 2026 |
 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | arXiv 2026 |
 
 #### Execution Feedback as Grounded Verification
